@@ -1,7 +1,6 @@
 # Politique de Confidentialité  
-**Dernière mise à jour : [mettre la date]**
 
-Cette politique de confidentialité décrit la manière dont l’application **[Nom de l’application]** traite les informations des utilisateurs.  
+Cette politique de confidentialité décrit la manière dont notre application traite les informations des utilisateurs.  
 Nous accordons une grande importance au respect de la vie privée. Cette application a été conçue pour fonctionner **sans collecter, stocker ou partager aucune donnée personnelle**.
 
 ---
@@ -21,7 +20,7 @@ L’application fonctionne entièrement **hors ligne**.
 Elle n’envoie **aucune information** vers un serveur externe.
 
 Les seules données utilisées sont :  
-- une **base de données locale SQLite**, intégrée dans l’application  
+- une **base de données locale**, intégrée dans l’application  
 - contenant les informations sur les panneaux routiers (textes, images, descriptions)
 
 Ces données sont **stockées uniquement sur l’appareil** et ne permettent en aucun cas d’identifier l’utilisateur.
@@ -52,16 +51,10 @@ Comme aucune donnée personnelle n’est collectée ou transmise, il n’existe 
 
 ## 7. Droits des utilisateurs  
 Puisque l’application ne collecte aucune donnée personnelle, il n’y a pas de données à consulter, modifier ou supprimer.  
-L’utilisateur peut simplement désinstaller l’application pour supprimer toutes les données locales (base SQLite incluse).
+L’utilisateur peut simplement désinstaller l’application pour supprimer toutes les données locales.
 
 ---
 
 ## 8. Modifications de la politique  
 Cette politique de confidentialité peut être mise à jour en cas de modification de l’application.  
 Toute modification sera indiquée dans cette section.
-
----
-
-## 9. Contact  
-Pour toute question concernant cette politique de confidentialité, vous pouvez contacter le développeur à l’adresse suivante :  
-**[Votre e‑mail ou page de contact]**
