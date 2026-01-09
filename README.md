@@ -1,2 +1,0 @@
-# verkehrszeichen
-Règles de confidentialité
