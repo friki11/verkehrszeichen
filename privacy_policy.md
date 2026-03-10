@@ -43,9 +43,6 @@ Google kann dabei u. a. folgende Daten verarbeiten:
 Diese Datenverarbeitung erfolgt durch Google gemäß deren eigener Datenschutzrichtlinie:  
 https://policies.google.com/privacy
 
-In der EU kann der Nutzer der App der **personalisierte Werbung zustimmen oder sie ablehnen**.  
-Bei Ablehnung werden nur nicht‑personalisierte Anzeigen angezeigt.
-
 ---
 
 ## 4. Weitergabe von Daten
